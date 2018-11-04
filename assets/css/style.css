@@ -1,0 +1,26 @@
+.container {
+
+    height: auto;
+    width: auto;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    align-content: center
+}
+
+#title {
+
+    display: inline-block;
+}
+
+#btn {
+
+    display: block;
+}
+
+.radbtn {
+
+    margin: 10px;
+}
+
+#btnStart {}
